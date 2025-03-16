@@ -11,6 +11,6 @@ public class Program
     static void Main()
     {
         HaloGeneric halo = new HaloGeneric();
-        halo.SapaUser("Agung");
+        halo.SapaUser("AgungP");
     }
 }
